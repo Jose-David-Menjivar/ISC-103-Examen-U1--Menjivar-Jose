@@ -1,0 +1,15 @@
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\bin\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.exe
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\bin\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.deps.json
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\bin\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.runtimeconfig.json
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\bin\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.dll
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\bin\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.pdb
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.AssemblyInfoInputs.cache
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.AssemblyInfo.cs
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.csproj.CoreCompileInputs.cache
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.sourcelink.json
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.dll
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\refint\ISC-103-Examen-U1-MenjivarJose.dll
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.pdb
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ISC-103-Examen-U1-MenjivarJose.genruntimeconfig.cache
+C:\Users\Francis\Desktop\ISC-103-Examen-U1-MenjivarJose\obj\Debug\net10.0\ref\ISC-103-Examen-U1-MenjivarJose.dll
